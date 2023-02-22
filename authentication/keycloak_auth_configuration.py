@@ -16,7 +16,7 @@ class KeyCloakAuthConfiguration(AuthConfiguration):
         self.auth_application="flask-app"
         self.auth_application_port=5030   # in our case it is orchestrator port
         self.client_id="my-client"
-        self.client_secret_key="2BleNLI9mL54osKVEZpYE2i4qjYwuVb1"
+        self.client_secret_key="8zWWtD8HtWvhjRdb6A8KuQTvTNhTM3kr"
  #       self.client_secret_key17 = "2BleNLI9mL54osKVEZpYE2i4qjYwuVb1"
  #       self.client_secret_key20 = "PZw37MlpVcjACg4MBJi1ecEcJlLYZlGT"
         self.init_configuration()
